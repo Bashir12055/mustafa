@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(201, 115, 17);
+}
+.main-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+img{
+    width: 90%;
+    border: solid 5px black;
+    border-radius: 10px;
+    height: 70vh;
+}
+p{
+    color: black;
+    font-size: 20px;
+    width: 90%;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+h2{
+    color: black;
+
+}
